@@ -1,0 +1,4 @@
+baseURL = 'https://alejandro.earth/curso-ia-lideres'
+languageCode = 'es-cl'
+title = 'Inteligencia Artificial para líderes'
+theme="hugo-book"
