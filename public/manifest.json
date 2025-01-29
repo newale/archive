@@ -1,14 +1,14 @@
 {
-  "name": "Inteligencia Artificial para líderes",
-  "short_name": "Inteligencia Artificial para líderes",
-  "start_url": "/curso-ia-lideres/",
-  "scope": "/curso-ia-lideres/",
+  "name": "archive",
+  "short_name": "archive",
+  "start_url": "/archive/",
+  "scope": "/archive/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/curso-ia-lideres/favicon.svg",
+      "src": "/archive/favicon.svg",
       "sizes": "512x512"
     }
   ]

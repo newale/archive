@@ -3,39 +3,16 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# Archive
 
-{{% columns %}}
-## Astris ipse furtiva
+El _archive_ cómo he decidido llamarlo, es un lugar donde pretendo disponer diversos materiales de forma pública, los temas que se tratarán los he estado desarrollando hace un tiempo y creo que hay valor en disponerlos a la comunidad.
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+Algunos de estos temas estarán expuestos de forma didáctica, otros de forma más de registro, artículos.
 
-<--->
-
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{% /columns %}}
+Espero que lo que encuentres sea de valor
 
 
-## Tempora nisi nunc
+## Indice
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+- Sobre inteligencia artificial:
+  - [hello](/archive/docs/ia-lideres/)
