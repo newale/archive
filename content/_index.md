@@ -15,4 +15,4 @@ Espero que lo que encuentres sea de valor
 ## Indice
 
 - Sobre inteligencia artificial:
-  - [hello](/archive/docs/ia-lideres/)
+  - [Inteligencia artificial para líderes](/archive/docs/ia-lideres/)
